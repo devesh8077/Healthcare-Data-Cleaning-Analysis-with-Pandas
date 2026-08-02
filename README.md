@@ -1,7 +1,3 @@
-# Healthcare-Data-Cleaning-Analysis-with-Pandas
-
-A hands-on data cleaning and exploratory analysis project on a real, messy healthcare dataset (55,500 rows) using Pandas.
-
 # Healthcare Dataset — Pandas Cleaning & Analysis
 
 A hands-on data cleaning and exploratory analysis project on a real, messy healthcare dataset (55,500 rows) using Pandas.
